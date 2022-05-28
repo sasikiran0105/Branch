@@ -20,5 +20,8 @@ public void Method5() {
 public void Method6() {
 	System.out.println("6");
 }
+public void Method7() {
+	System.out.println("7");
+}
 	
 }
